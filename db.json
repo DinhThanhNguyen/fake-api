@@ -1,0 +1,48 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "HTML, CSS từ Zero Tới Hero",
+      "description": "Khóa học phù hợp cho cả người chưa từng học lập trình. Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee."
+    },
+    {
+      "id": 2,
+      "title": "Responsive Với Grid System (Giống Bootstrap 4)",
+      "description": "Xây dựng giao diện hiển thị tối ưu trên nhiều thiết bị, nhiều kích thước màn hình khác nhau, kỹ thuật này được gọi là 'responsive'. Trong khóa này chúng ta sẽ học về cách xây dựng Grid System tương tự Bootstrap 4."
+    },
+    {
+      "id": 3,
+      "title": "Javascript Cơ Bản",
+      "description": "Học Javascript cơ bản phù hợp cho người chưa từng học lập trình. Với hơn 100 bài học và có bài tập thực hành sau mỗi bài học."
+    },
+    {
+      "id": 4,
+      "title": "Javascript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, hiểu các khái niệm Javascript nâng cao như: IIFE, closure, reference types, this keyword, bind, call, apply, ..."
+    },
+    {
+      "id": 5,
+      "title": "NodeJS & ExpressJS",
+      "description": "Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web."
+    },
+    {
+      "title": "Kiến Thức Nhập Môn",
+      "description": "Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "abc@gmail.com",
+      "password": "Abc123"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "fullname": "Nguyễn Đình Thanh",
+      "email": "abc@gmail.com"
+    }
+  ]
+}
